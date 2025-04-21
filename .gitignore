@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Numpy data
+*.npy
+
+# Vivado / Vitis Project
+hls4ml_prj/
